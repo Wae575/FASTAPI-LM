@@ -1,6 +1,6 @@
 services:
-  api-siwapan:
+  api-waeasmah:
     build: .
     ports:
-      - "8001:8000"
+      - "8520:8000"
     restart: always
